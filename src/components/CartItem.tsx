@@ -123,7 +123,7 @@ const CartItem = ({ item, onUpdateQuantity, onRemove }: CartItemProps) => {
       </div>
       
       <div className="text-right">
-        <span className="font-semibold gradient-text text-lg">{formattedTotal}</span>
+        <span className="font-medium">{formattedTotal}</span>
       </div>
     </div>
   );

@@ -83,7 +83,7 @@ const ProductCard = ({ product, onAddToCart }: ProductCardProps) => {
         </p>
         
         <div className="flex items-center justify-between mt-auto">
-          <span className="font-semibold text-lg gradient-text">{formattedPrice}</span>
+          <span className="font-medium">{formattedPrice}</span>
           
           <TooltipProvider>
             <Tooltip>
