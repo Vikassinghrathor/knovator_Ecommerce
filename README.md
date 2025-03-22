@@ -38,7 +38,7 @@ A sleek, modern e-commerce platform built with React, TypeScript, and Tailwind C
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Vikassinghrathor/knovator_Ecommerce.git
    ```
 
 2. Navigate to the project directory:
